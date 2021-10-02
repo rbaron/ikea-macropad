@@ -1,0 +1,9 @@
+autopep8==1.5.7
+paho-mqtt==1.5.1
+pycodestyle==2.7.0
+pynput==1.7.3
+pyobjc-core==7.3
+pyobjc-framework-Cocoa==7.3; sys_platform == 'darwin'
+pyobjc-framework-Quartz==7.3; sys_platform == 'darwin'
+six==1.16.0
+toml==0.10.2
